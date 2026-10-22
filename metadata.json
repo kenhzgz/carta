@@ -1,0 +1,6 @@
+{
+  "name": "Carta - Diseñador de Menús",
+  "description": "Crea y diseña la carta de tu restaurante en 4 sencillos pasos: fondo, platos, estilo y exportación en alta resolución.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
